@@ -1,0 +1,6 @@
+[+]: what is three main component in NestJs.
+[+]: how to create routes endpoints.
+[+]: how to create Services and integrate with controllers.
+[+]: how to defined DTO.
+[+]: how to get request paylaod.
+[+]: how to handle Error handling.
